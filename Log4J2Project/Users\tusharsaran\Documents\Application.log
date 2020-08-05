@@ -1,0 +1,5 @@
+[INFO ] 2020-08-03 20:24:15.519 [main] TestClass - This is a information message
+[ERROR] 2020-08-03 20:24:18.941 [main] TestClass - Error message
+[WARN ] 2020-08-03 20:24:20.756 [main] TestClass - Warning message
+[FATAL] 2020-08-03 20:24:21.659 [main] TestClass - Fatal message
+[DEBUG] 2020-08-03 20:24:22.613 [main] TestClass - Debugging the message
